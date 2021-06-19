@@ -1,0 +1,6 @@
+1.Open ubuntu > go to terminal
+2.type gedit Main.java(there type the full code)
+3.To compile use javac Main.java command 
+4.then create one TXT file input.txt file in same folder
+5.To run the code java Main and give the input as (2 or 4 or 6)
+6.then go to output.txt file to check the output
